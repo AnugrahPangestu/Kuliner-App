@@ -1,0 +1,316 @@
+<resources>
+    <string name="app_name">Kuliner Makanan Jepang</string>
+
+    <string name="heroes_name">Nama Makanan </string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profil">Profil</string>
+    <string name="data_in">Data Masuk</string>
+    <string name="name_profil">Muhammad Anugrah Pangestu</string>
+    <string name="profile_email">pangestuanugrah17@gmail.com</string>
+    <string name="my_profile">My Profile</string>
+    <string name="title_decs_detail">Deskripsi</string>
+    <string name="receipt_title">Resep</string>
+    <string name="how_to_make">Cara Membuat</string>
+    <string-array name="data_name">
+        <item>Sushi</item>
+        <item>Sashimi</item>
+        <item>Ramen</item>
+        <item>Udon</item>
+        <item>Donburi</item>
+        <item>Yakimeshi</item>
+        <item>Karaage</item>
+        <item>Furai</item>
+        <item>Okonomiyaki</item>
+        <item>Gyoza</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Sushi merupakan salah satu makanan Jepang berupa nasi yang biasanya dibentuk bersamaan dengan lauk. Lauk yang digunakan juga bervariasi, seperti daging, makanan laut, sayuran mentah hingga matang. Nasi Sushi memiliki rasa asam dan bertekstur lembut karena telah dibumbui oleh campuran garam, gula dan cuka beras. </item>
+        <item>Sashimi merupakan salah satu makanan Jepang yang berbahan dasar ikan mentah segar. Untuk menikmatinya yaitu dengan cara mencelupkan ikan tersebut yang telah dipotong-potong serta dibersihkan menggunakan air perasan lemon yang dicampur kecap asin.</item>
+        <item>Ramen termasuk salah satu rekomendasi makanan Jepang paling banyak digemari masyarakat Indonesia. Mie ramen mempunyai bentuk lebih tipis. Biasanya ramen disajikan dengan kuah kaldu beraneka macam rasa, seperti miso dan shoyu yang juga dicampur oleh berbagai macam sayuran, baik rumput laut maupun tauge.</item>
+        <item>Udon adalah sejenis mie asal Jepang yang biasanya dibuat dari bahan dasar tepung terigu. Selain itu, biasanya udon disajikan menggunakan kuah kaldu melalui beraneka macam topping. Udon juga dihidangkan bersama kuah panas. Akan tetapi, ada juga hidangan udon dalam kondisi dingin. Bentuk dan ukuran udon memiliki ketebalan yang lebih tebal dibandingkan mie biasanya. Biasanya mie berbentuk persegi atau tebal bulat, namun ada juga yang berbentuk pipih.</item>
+        <item>Donburi menurut bahasa Jepang sendiri adalah mangkuk. Hidangan donburi kemudian diartikan menjadi makanan Jepang yang dihidangkan dalam mangkuk, kemudian dibuat dari campuran nasi dengan aneka macam topping. Seringkali donburi dijadikan sebagai menu makan malam atau siang di restoran Jepang. Tidak hanya dikenal sebagai makanan cepat saji, tetapi donburi juga dikenal sebagai makanan murah atau terjangkau. Ada berbagai macam protein yang dapat dijadikan topping donburi, diantaranya salmon, ayam, udang dan daging sapi.</item>
+        <item>Yakimeshi merupakan salah satu makanan khas Jepang berupa nasi goreng. Makanan ini berbahan nasi yang dicampur dengan daging sapi dengan rasa yang gurih karena dipadukan oleh saus Jepang. Perbedaan antara nasi goreng asal Jepang ini dibandingkan nasi goreng yang lainnya yaitu bumbu dan bahan bakunya sangat sederhana. Jadi, nasi goreng khas Jepang ini sangat simpel, cukup memakai daun bawang, telur, jamur, daun bawang, dan bawang putih. Proses untuk memasak nasi goreng ini juga dilakukan menggunakan teppanyaki, yaitu wajan besar yang biasanya dipakai untuk menumis ala Jepang.</item>
+        <item>Karage itu bukan sebuah makanan khas Jepang melainkan sebuah teknik memasak ala Jepang, yang mengharuskan bahan makanan akan dimasak dengan 2 tahap penggorengan. Salah satu makanan yang dapat dimasak dengan teknik karaage ini yaitu chicken karaage. Walaupun melalui 2 step penggorengan, tapi pembuatan masakan chicken karaage sebenarnya cukup mudah.</item>
+        <item>Furai atau ebi furai termasuk salah satu jenis makanan khas dari Jepang. Ebi furai sangat terkenal sebab memiliki rasa yang gurih dan enak saat dimakan. Ebi Furai biasanya terbuat dari udang yang digorang menggunakan tepung roti.</item>
+        <item>Okonomiyaki adalah sejenis makanan terbuat dari bahan dasar tepung terigu encer atau dashi, yang dikombinasikan dengan sea food, kol, elur ayam, hingga daging babi. Biasanya dipanggang memakai teppan atau penggorengan datar. Kata okonomi menurut bahasa Jepang artinya adalah “suka-suka” sedangkan yaki memiliki arti “panggang”. Maka dari itu, topping untuk okonomiyaki dapat disesuaikan tergantung selera si penikmatnya. Biasanya orang memakan okonomiyaki ini di restoran khusus hidangan tersebut. Dalam beberapa restoran, tiap-tiap meja makan biasanya dilengkapi oleh teppan atau wajan besi, kemudian pelanggan hanya diberi beberapa bahan yang dapat dimasak sendiri.</item>
+        <item>Gyoza merupakan makanan sejenis pangsit mini, terbuat dari bahan sayuran cincang seperti kubis, kucai dan bawah putih, lalu dicampur daging cincang ayam atau babi, selanjutnya dibungkus. Gyoza bisa dibuat lewat berbagai macam bentuk, kemudian dimasak lewat berbagai macam cara dengan rasa berbeda. Ada beberapa teknik memasak Gyoza, diantaranya dikukus, digoreng menggunakan pan-fried, direbus, digoreng deep fried atau digoreng biasa.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/sushi</item>
+        <item>@drawable/sashimi</item>
+        <item>@drawable/ramen</item>
+        <item>@drawable/udon</item>
+        <item>@drawable/donburi</item>
+        <item>@drawable/yakimeshi</item>
+        <item>@drawable/karaage</item>
+        <item>@drawable/furai</item>
+        <item>@drawable/okonomiyaki</item>
+        <item>@drawable/gyoza</item>
+    </integer-array>
+
+    <string-array name="data_receipt">
+        <item>
+            Bahan:\n
+            - 150 gr beras\n
+            - 1 sdm beras ketan \n
+            - 500 ml air \n
+            - 1 sdt cuka \n
+            - 1/2 sdt garam \n
+            - 1/2 sdt gula pasir \n
+            Bahan isian: \n
+            - 1 sdm minyak sayur/olive oil \n
+            - 1 dada ayam, potong memanjang \n
+            - 2 sdm saus teriyaki \n
+            - 1/2 sdm kecap asin \n
+            - 1/2 sdt lada bubuk \n
+            - 1/2 buah wortel potong memanjang, rebus sebentar dengan sedikit garam \n
+            - 1/2 buah timun jepang, potong memanjang \n
+            - 2 lembar nori \n
+            - 1 buah alpukat, buang kulitnya, potong tipis</item>
+        <item>
+            - 110 gram tuna segar\n
+            - 110 gram ikan ekor kuning segar\n
+            - 1 ikat daun ketumbar, dicuci dan dicincang\n
+            - 1 sdm. (15 ml) minyak wijen\n
+            - 1 lobak putih\n
+            - 1 mentimun utuh\n
+            - 1 wortel utuh\n
+            - 250 gram nasi susyi (opsional)\n
+            - 1/4 buah alpukat\n
+            - Separuh buah lemon segar\n
+            - 4 lembar daun shiso\n
+            - 1,5 cm wasabi\n
+            - 60 ml kecap\n
+        </item>
+        <item>
+            - 3 sdm minyak, untuk menumis \n
+            - 3 siung bawang putih, cincang \n
+            - 2 cm jahe, memarkan \n
+            - 2 sdm daun bawang, iris halus \n
+            - 200 g daging sapi cincang \n
+            - 3 buah cabai rawit merah, haluskan \n
+            - 2 sdm selai kacang halus \n
+            - 2 sdm shoyu atau kecap asin \n
+            - 1 sdt garam \n
+            - 1 sdt merica putih bubuk \n
+            - 1 sdt gula pasir \n
+            - 500 g ramen segar atau ramen siap pakai \n
+            - 1 bungkus (8 g) Royco Kaldu Sapi \n
+            - 1 L air minyak cabai \n
+        </item>
+        <item>
+            Bahan:\n
+            - 2 bungkus udon\n
+            - 100 gr daging sapi, iris tipis\n
+            - 1 buah wortel, potong korek api\n
+            Bumbu:\n
+            - 2 siung bawang putih\n
+            - 1 bawang prei\n
+            - 4 sdm kecap manis\n
+            - 2 sdm kecap asin Jepang\n
+            - 2 sdm saus tiram\n
+            - 1 sdm kecap teriyaki\n
+            - Sedikit wijen untuk taburan\n
+        </item>
+        <item>
+            Bahan:\n
+            - Nasi\n
+            - Butter\n
+            - Saus tiram\n
+            - Garam\n
+            - Gula\n
+            - Unagi frozen\n
+            - Kecap manis\n
+            - Kecap asin\n
+            - Nori\n
+            - Biji wijen\n
+            - Daun bawang\n
+        </item>
+        <item>
+            Bahan:\n
+            - 1 piring nasi putih dingin\n
+            - 1 butir telur ayam, kocok lepas\n
+            - 1 batang daun bawang, iris tipis\n
+            - 1 sdt shoyu (bisa diganti kecap asin)\n
+            - 2 sdm mayonaise\n
+            - 2 buah sosis/smoked beef, potong dadu\n
+            - garam dan lada bubuk secukupnya\n
+        </item>
+        <item>
+            Bahan:\n
+            - 500 gram dada ayam fillet, potong kecil-kecil\n
+            Bumbu marinasi:\n
+            - 1 ruas jahe, parut\n
+            - 2-3 siung bawang putih, parut\n
+            - 2 sdm kecap asin\n
+            - 1 sdm minyak wijen\n
+            - Lada dan kaldu bubuk sedikit saja\n
+            Bahan tepung pelapis:\n
+            - 8 sdm tepung bumbu serbaguna\n
+            - 7 sdm tepung maizena\n
+            - Lada dan kaldu bubuk secukupnya\n
+        </item>
+        <item>
+            Bahan:\n
+            - Udang, ukuran besar 250 gram\n
+            - Jeruk nipis, ambil airnya 1 buah\n
+            - Lada bubuk 1/4 sdt\n
+            - Garam sejumput\n
+            Bahan Pencelup:\n
+            - Putih telur 2 butir\n
+            - Garam sejumput\n
+            Bahan Pelapis:\n
+            - Tepung bumbu serbaguna 3 sdm\n
+            - Tepung roti kasar (bread crumbs) secukupnya
+        </item>
+        <item>
+            Bahan:\n
+            - Kol, cincang kasar 100 gram\n
+            - Wortel, serut 50 gram\n
+            - Daun bawang, iris-iris 2 batang\n
+            - Tepung terigu serbaguna 150 gram\n
+            - Telur 1 butir\n
+            - Garam 1/4 sdt\n
+            - Gula 1/4 sdt\n
+            - Baking soda 1/4 sdt\n
+            - Dashi bubuk 1 sdt\n
+            - Air secukupnya\n
+            - Katsuobushi secukupnya\n
+            - Udang, cincang kasar 100 gram\n
+            - Cumi, potong dadu 100 gram\n
+            - Mayonnaise secukupnya\n
+            Saus Okonomiyaki:\n
+            - Gula - 1 sdm\n
+            - Saus tomat 3 sdm\n
+            - Saus tiram 2 sdm\n
+            - Kecap manis 1 sdm\n
+            - Kecap inggris 1 sdm
+        </item>
+        <item>
+            Bahan:\n
+            - Tepung terigu 150 gram\n
+            - Tepung tapioka 1 sdm\n
+            - Garam 1/4 sdt\n
+            - Minyak goreng 1 sdm\n
+            - Air panas (mendidih) 90 ml\n
+            Isian:\n
+            - Daging ayam, cincang halus 150 gram\n
+            - Daging udang, cincang kasar 100 gram\n
+            - Tepung tapioka 2 sdm\n
+            - Saus tiram 1 sdm\n
+            - Minyak wijen 1 sdt\n
+            - Garam 1 sdt\n
+            - Gula pasir 1 sdt\n
+            - Daun bawang, iris halus 2 batang\n
+            Saus:\n
+            - Kecap asin 4 sdm\n
+            - Minyak wijen 1 sdt\n
+            - Cuka sedikit\n
+        </item>
+    </string-array>
+
+    <string-array name="data_receipt_decs">
+        <item>
+            1. Sambal: Dalam chopper, masukkan bawang putih dan cabai.\n
+            2. Tumis 1/2 bawang bombai, masukkan bawang dan cabai yang sudah di haluskan sebelumnya. Masukkan garam dan gula secukupnya. Tumis hingga wangi.\n
+            3. Marinasi ayam selama 20 menit dengan bahan marinasi yang dicampur jadi satu.n\
+            4. Sambil menunggu marinasi, siapkan terigu, maizena dalam wadah. Kemudian bumbui dengan lada secukupnya, kunyit bubuk, kaldu bubuk, ketumbar, bawang putih, soda kue dan garam. Aduk rata.\n
+            5. Dalam wadah lain, masukkan putih telur, dan ayam yang sudah dimarinasi sebelumnya. Aduk sampai rata.\n
+            6. Kemudian masukkan ayam satu persatu ke dalam adonan tepung bumbu. Goreng ayam sampai kuning kecokelatan.\n
+            7. Geprek ayam dengan sambal\n
+            8. Siapkan nasi, beri minyak wijen dan bawang goreng. Aduk sampai tercampur rata.\n
+            9. Siapkan sushi roll, di atasnya letakkan nori. Kemudian beri nasi di atas nori. Ratakan.\n
+            10. Beri potongan selada dan ayam geprek.\n
+            11. Gulung nasi dengan sushi roll. Potong-potong.\n
+            12. Siap disajikan.</item>
+        <item>
+            1. Tutupi balok tuna dengan minyak wijen dan daun ketumbar, dan panaskan sebentar.\n
+            2. Iris ikan menjadi potongan yang berukuran 0,5 hingga 1,5 cm.\n
+            3. Tata irisan daging ikan dalam satu baris tumpang-tindih.\n
+            4. Parut lobak, mentimun, dan wortel.\n
+            5. Iris lemon, mentimun, dan alpukat dalam ukuran sekitar 0,5 cm.\n
+            6. Tempatkan irisan sashimi di atas sayuran parut.\n
+            7. Tambahkan jahe, daun shiso, dan wasabi jika menginginkan.\n
+            8. Tuang 60 ml kecap ke mangkuk kecil.\n
+            9. sashimi siap disajikan.
+        </item>
+        <item>
+            1. Siapkan 1 liter air dalam panci dan bubuhkan penyedap royco kaldu sapi. Rebus hingga mendidih. \n
+            2. Sambil menunggu, tumis bawang putih, jahe segar, dan daun bawang hingga harum. Masukkan ke dalam rebusan air setelah mendidih\n
+            3. Masukkan tumisan daging sapi cincang beserta cabai rawit merah halus, selai kacang, shoyu, garam, merica bubuk, dan gula pasir.\n
+            4. Setelah daging terlihat matang dan empuk, masukkan ramen dan aduk-aduk perlahan.\n
+            5. Tunggu hingga ramen matang dan aromanya harum, matikan api dan ramen siap dihidangkan.\n
+        </item>
+        <item>
+            1. Buka kemasan udon, cuci bersih tiriskan.\n
+            2. Tumis bawang, masukkan daging sapi, wortel, dan semua jenis kecap lalu aduk sampai wangi.\n
+            3. Masukkan udon, aduk rata. Tambahkan air kurang lebih 1/2 gelas, masak sesuai tingkat kematangan yang diinginkan.\n
+            4. Matang, angkat dan taburi sedikit wijen.
+        </item>
+        <item>
+            1. Tumis sedikit butter, nasi, saus tiram, sejumput garam dan gula. Aduk sampai harum.\n
+            2. Siapkan unagi frozen bersama saus instannya.\n
+            3. Tambahkan sedikit kecap manis, kecap asin, dan saus tiram, lalu panaskan unagi serta campuran semua sausnya, lalu siramkan ke atas nasi.\n
+            4. Sajikan dengan taburan nori, biji wijen, dan daun bawang.\n
+        </item>
+        <item>
+            1. Campurkan nasi putih dengan mayonaise hingga merata.\n
+            2. Goreng orang-arik telur, sisihkan.\n
+            3. Tumis sebentar sosis hingga matang, masukkan daun bawang, tumis sebentar.\n
+            4. Masukkan nasi, shoyu dan telur orak-arik. Aduk rata.\n
+            5. Masukkan garam dan lada bubuk secukupnya. Tes rasa, jika sudah pas, angkat.\n
+        </item>
+        <item>
+            1. Marinasi ayam dengan bahan marinasi di atas, diamkan di kulkas minimal 3 jam atau semaleman.\n
+            2. Ketika akan menggoreng, ambil 4 sdm campuran tepung pelapis di atas. Lalu campurkan dengan dada ayam marinasi tadi. Aduk rata.\n
+            3. Panaskan minyak goreng, ambil dada ayam, balurkan ke tepung pelapis tadi, dengan sedikit dicubit-cubit supaya keriting. Lalu goreng dalam minyak panas.\n
+            4. Goreng hingga setengah matang saja, tidak sampai kecokelatan sekali. Tiriskan. Dinginkan.\n
+            5. Setelah dingin goreng kembali dengan minyak yang suhunya lebih panas, sampai kecokelatan.\n
+        </item>
+        <item>
+            1. Kupas kulit udang, sisakan bagian ekornya. Belah bagian punggung udang, keluarkan kotoran hitamnya, cuci bersih.\n
+            2. Lumuri dengan air perasan jeruk nipis, garam dan lada bubuk. Diamkan 15 menit di dalam kulkas.\n
+            3. Lap kering udang dengan tisu dapur. Kerat-kerat bagian perut udang, hati-hati jangan sampai putus. Lalu balik tubuh udang, tekan bagian punggungnya sampai terasa ada bunyi gemeretak. Itu tandanya bahwa urat-urat udang sudah putus, membuat udang bisa tetap lurus ketika digoreng.\n
+            4. Kocok putih telur dan garam, sebagai bahan pencelup udang.\n
+            5. Ambil 1 ekor udang, balur dengan tepung serbaguna, celup ke telur, gulingkan lagi ke tepung serbaguna, celup lagi ke telur.\n
+            6. Kemudian gulingkan di tepung panir kasar, celup lagi ke telur dan terakhir gulingkan ke tepung roti kasar. Pelapisan tepung yang berulang ini bertujuan untuk hasil udang yang terlihat tebal.\n
+            7. Panaskan minyak banyak. Goreng udang hingga berwarna kuning keemasan.\n
+            8. Angkat dan tiriskan. Sajikan hangat dengan saos dan mayonnaise.\n
+            9. Pastikan tangan dalam keadaan bersih dan kering ketika membalut udang dengan tepung breadcrumbs. Jika tangan basah akan membuat prosesnya lebih sulit dan membuat tepung menggumpal ditangan.\n
+        </item>
+        <item>
+            1. Saus Okonomiyaki: Dalam wadah, aduk semua bahan di atas hingga rata. Sisihkan.\n
+            2. Okonomiyaki: Masukan tepung terigu, baking soda, dashi, dan kocokan telur. Lalu, air beri sedikit demi hingga menjadi adonan kental. Tambahkan gula dan garam.\n
+            3. Tambahkan adonan dengan kol, wortel, dan daun bawang. Aduk hingga rata.\n
+            4. Panaskan pan ambil 2 sendok sayur adonan ratakan. Beri cumi dan udang kemudian beri 1 sendok sayur adonan lagi masak hingga bagian bawah matang. Lalu, balik dan masak hingga matang merata. Lakukan yang sama hingga adonan habis.\n
+            5. Setelah matang oleskan saus okonomiyaki. Taburi dengan katsuobushi dan tambahkan mayonnaise sesuai selera. Sajikan.\n
+            \nTIPS :\n
+            1. Dalam membuat adonan terigu dan telur harus tercampur rata tidak ada yang bergerindil.\n
+            2. Gunakan api sedang agar adonan dalam okonomiyaki matang merata.\n
+        </item>
+        <item>
+            CARA MEMBUAT KULIT:\n
+            1. Dalam wadah baskom, aduk rata terigu, tapioka, dan garam. Buat cekungan di tengahnya.\n
+            2. Tuang minyak goreng dan air panas. Aduk cepat hingga rata dengan sendok kayu. Uleni hingga adonan kalis. Istirahatkan selama 20 menit agar adonan lentur saat di cetak.\n
+            3. Bagi adonan jadi 4 bagian. Masing-masing adonan, giling dengan pasta maker dari ukuran paling tebal, lanjutkan dengan ukuran yang hasilnya paling tipis.\n
+            4. Cetak adonan tipis tadi jadi bentuk bulat dengan diameter kira-kira 8 cm. Lakukan hingga semua adonan habis.\n
+            5. Taburi tiap lembar kulit dengan terigu agar tidak saling menempel.\n
+            \nCARA MEMBUAT ISIAN:\n
+            1. Dalam wadah, campur semua bahan isian dan aduk hingga rata. Koreksi rasanya dengan mencicipi sedikit adonan yang digoreng atau direbus.\n
+            2. Ambil selembar kulit gyoza, beri isian di tengahnya sebanyak 1 sdt. Tangkupkan jadi setengah lingkaran lalu lipat dan tumpuk di sepanjang sisinya.\n
+            3. Tekan sedikit ujungnya agar menempel. Lakukan hingga habis.\n
+            \nPENYELESAIAN:\n
+            1. Panaskan wajan datar anti lengket. Beri sedikit saja minyak goreng. Tata gyoza dan biarkan masak hingga sisi bagian bawah berubah kecoklatan.\n
+            2. Tuang air hingga ¼ tinggi gyoza. Tutup wajan. Biarkan masak hingga airnya habis dan kulit gyoza terlihat jadi transparan serta matang. Angkat.\n
+            3. Siap disajikan bersama saus.\n
+            \nTIPS\n
+            1. Saat membuat kulit gyoza, tuang air mendidih secara bertahap sambil diaduk agar adonan jadi tak terlalu lembek. Jika air masih kurang, bisa terus ditambahkan sampai adonan kalis.\n
+            2. Gunakan daging ayam dan udang yang segar agar kelezatan gyoza bisa maksimal.\n
+            3. Pakailah wajan anti lengket, seperti GM Bear Wajan Teflon Fry Pan (Lihat di Lazada DISKON)agar gyoza tidak menempel di dasar wajan dan menghasilkan gyoza yang menggugah selera.\n
+        </item>
+    </string-array>
+</resources>
